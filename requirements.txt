@@ -1,0 +1,11 @@
+duckdb
+pandas
+scikit-learn
+matplotlib
+python-dotenv
+fastapi
+uvicorn
+requests
+pytest
+httpx
+
